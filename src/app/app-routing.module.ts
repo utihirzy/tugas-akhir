@@ -5,7 +5,7 @@ import { DivisionComponent } from './division/division.component';
 
 const routes: Routes = [
   {path:"dashboard",component:DashboardComponent},
-  {path:"divisi",component:DivisionComponent}
+  {path:"divisi",component:DivisionComponent},
 ];
 
 @NgModule({
